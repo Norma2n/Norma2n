@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Norma2n 👋
 
-<!--
-**Norma2n/Norma2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **😄 Pronouns:** My pronouns are He/His.
 
-Here are some ideas to get you started:
+- **👾 Projects:** None for now. Just wait for it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🌍 Languages I Speak:** Spanish (Native), English (B1), Esperanto (A2). And I want to learn korean, french, portuguese, and italian. Wish me luck.
+
+- **📫 How to reach me:** Enter to this Discord Server: https://discord.gg/GbAEfxg3qt.
+
+- **🥞 Teams I am in:** I'm in the Fresh Juices Team (Videogames, discord bots, webpages, etc.) With @TereDeJugo and @p0gchamp
+
+**My name's "Norma2n", and I'm trying to improve my english, learn about programmation in javascript, improve my pixelarting & learn to write stories.**
+
+### My First Animation This Year:
+
+![Pi](https://user-images.githubusercontent.com/82099883/113895594-bdc6ba80-978e-11eb-9194-c2bb4497e97e.gif)
+]
+
+*Thank youse for reading. Correct me*
