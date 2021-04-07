@@ -15,6 +15,6 @@
 ### My First Animation This Year:
 
 ![Pi](https://user-images.githubusercontent.com/82099883/113895594-bdc6ba80-978e-11eb-9194-c2bb4497e97e.gif)
-]
 
-*Thank youse for reading. Correct me*
+
+*Thank youse for reading. Correct me if I do a mistake.*
