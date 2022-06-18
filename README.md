@@ -2,4 +2,4 @@
 
 Well! I don't actually know why did I want to have a GitHub account when I'm not in programmation, but I guess I should have a good presentation for this.
 
-![Pi](https://user-images.githubusercontent.com/82099883/113895594-bdc6ba80-978e-11eb-9194-c2bb4497e97e.gif)
+![017](https://user-images.githubusercontent.com/82099883/174458675-20ac4715-918a-41a9-9547-8495fb738c5d.gif)
